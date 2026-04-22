@@ -1,8 +1,6 @@
 """
 run.py  —  Flask + Socket.IO entrypoint
 """
-import eventlet
-eventlet.monkey_patch()
 
 from app import create_app, socketio
 
