@@ -1,3 +1,4 @@
+wheel
 flask==3.0.3
 flask-sqlalchemy==3.1.1
 flask-bcrypt==1.0.1
@@ -5,7 +6,7 @@ flask-jwt-extended==4.6.0
 flask-socketio==5.3.6
 flask-cors==4.0.1
 psycopg2-binary==2.9.9
-Pillow==9.5.0
+Pillow-SIMD==9.5.0.post1
 numpy==1.26.4
 scikit-learn==1.4.2
 tensorflow==2.16.1
